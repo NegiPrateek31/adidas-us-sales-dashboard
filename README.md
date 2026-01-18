@@ -43,19 +43,6 @@ The dataset includes U.S. sales records with the following attributes:
 
 ---
 
-## Project Structure
-adidas-us-sales-dashboard/
-├── data/
-│ └── Adidas US Sales Datasets.xlsx
-├── powerbi/
-│ ├── adidas_dashboard.pbix
-│ └── screenshots/
-│ ├── overview.png
-│ ├── product_analysis.png
-│ └── regional_performance.png
-└── README.md
-
----
 
 ## Outcome
 This project demonstrates how **business intelligence tools** can be used to transform large sales datasets into **executive-level dashboards** that support data-driven decision-making.
